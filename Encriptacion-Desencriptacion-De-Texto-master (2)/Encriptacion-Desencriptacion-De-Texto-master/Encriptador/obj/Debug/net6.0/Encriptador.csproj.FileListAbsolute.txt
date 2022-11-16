@@ -1,0 +1,30 @@
+C:\Users\Jarvis\Downloads\Encriptador\bin\Debug\net6.0\Encriptador.exe
+C:\Users\Jarvis\Downloads\Encriptador\bin\Debug\net6.0\Encriptador.deps.json
+C:\Users\Jarvis\Downloads\Encriptador\bin\Debug\net6.0\Encriptador.runtimeconfig.json
+C:\Users\Jarvis\Downloads\Encriptador\bin\Debug\net6.0\Encriptador.dll
+C:\Users\Jarvis\Downloads\Encriptador\bin\Debug\net6.0\Encriptador.pdb
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.csproj.AssemblyReference.cache
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.AssemblyInfo.cs
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.dll
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\refint\Encriptador.dll
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.pdb
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\Encriptador.genruntimeconfig.cache
+C:\Users\Jarvis\Downloads\Encriptador\obj\Debug\net6.0\ref\Encriptador.dll
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\bin\Debug\net6.0\Encriptador.exe
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\bin\Debug\net6.0\Encriptador.deps.json
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\bin\Debug\net6.0\Encriptador.runtimeconfig.json
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\bin\Debug\net6.0\Encriptador.dll
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\bin\Debug\net6.0\Encriptador.pdb
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.csproj.AssemblyReference.cache
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.AssemblyInfoInputs.cache
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.AssemblyInfo.cs
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.csproj.CoreCompileInputs.cache
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.dll
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\refint\Encriptador.dll
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.pdb
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\Encriptador.genruntimeconfig.cache
+C:\Users\angem\Pictures\Encriptacion-Desencriptacion-De-Texto-master (2)\Encriptacion-Desencriptacion-De-Texto-master\Encriptador\obj\Debug\net6.0\ref\Encriptador.dll
